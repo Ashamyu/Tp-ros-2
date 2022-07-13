@@ -1,0 +1,6 @@
+devel_space: /home/iamasham/tp-ros-2/devel
+install: false
+install_space: /home/iamasham/tp-ros-2/install
+profile: default
+source_space: /home/iamasham/tp-ros-2/src
+workspace: /home/iamasham/tp-ros-2
