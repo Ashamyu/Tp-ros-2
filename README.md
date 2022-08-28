@@ -7,7 +7,7 @@ Make a git clone of the git repository
 https://github.com/Ashamyu/Tp-ros-2.git
 ```
 
-**NOTE :** The coommand **roscore** must be open in one terminal and the other commands in another terminal.
+**NOTE :** The command "**roscore**" must be open in one terminal and the other commands in another terminal.
 ## Part 1
 
 >Use the commands below in a terminal
