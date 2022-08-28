@@ -11,7 +11,7 @@ https://github.com/Ashamyu/Tp-ros-2.git
 ## Part 1
 
 
->Use the commands below in a terminal
+>Use the commands below 
 ```
 roscore
 rosrun turtle turtlesim_node
