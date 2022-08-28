@@ -42,9 +42,9 @@ rosrun move_turtle turtle_circle.py 1.0
 ```
 
 ----------------------------------------------------
-- >Author : SHAMYU GEORGE ADRIEN       -
-- >Class : INFO2                       -
-- >Module : ROBO                       -
+- >**Author** : SHAMYU GEORGE ADRIEN       -
+- >**Class** : INFO2                       -
+- >**Module** : ROBO                       -
 
 
 
