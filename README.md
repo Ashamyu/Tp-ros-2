@@ -36,14 +36,15 @@ rosrun move_turtle deplacer.py
 
 source devel/setup.bash
 roscore
-rosrun move_turtle turtle_circle.py 1.0 (the "1.0" here is very important in this command)
+rosrun move_turtle turtle_circle.py 1.0 
+ (the "1.0" here is very important in this command)
 
 ```
 
-
--Author : SHAMYU GEORGE ADRIEN
--Class : INFO2
--Module : ROBO
+----------------------------------------------------
+- >Author : SHAMYU GEORGE ADRIEN       -
+- >Class : INFO2                       -
+- >Module : ROBO                       -
 
 
 
